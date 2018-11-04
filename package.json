@@ -1,0 +1,32 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Practice of unit tests with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoRJF/js-tdd.git"
+  },
+  "keywords": [
+    "JS",
+    "tests",
+    "javascript",
+    "tdd"
+  ],
+  "author": "Renato Ferreira <renatoferreira.dev@gmail.com> (https://renatorjf.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenatoRJF/js-tdd/issues"
+  },
+  "homepage": "https://github.com/RenatoRJF/js-tdd#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
